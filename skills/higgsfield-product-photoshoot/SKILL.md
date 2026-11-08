@@ -1,4 +1,5 @@
 ---
+disable-model-invocation: true
 version: 0.13.0
 name: higgsfield-product-photoshoot
 description: |

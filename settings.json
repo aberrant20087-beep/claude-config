@@ -12,6 +12,22 @@
   "skipWorkflowUsageWarning": true,
   "autoCompactEnabled": true,
   "agentPushNotifEnabled": true,
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": ["C:\\Users\\newis\\OneDrive\\바탕 화면\\SEOL\\tools\\pre_deploy_hook.py"],
+            "timeout": 120,
+            "statusMessage": "SEOL 배포 전 검사"
+          }
+        ]
+      }
+    ]
+  },
   "autoMode": {
     "environment": [
       "### Org-wide",

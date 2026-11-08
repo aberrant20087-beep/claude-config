@@ -13,3 +13,4 @@
 - [방으로 가는 영상](room-path-video.md) — 자매 클릭 영상은 벤치→집→자기 방, 방이 바로 나오면 안 됨
 - [로컬은 Edge로](open-in-edge.md) — 얼에게 로컬을 열어 줄 때는 Chrome 말고 Edge(Start-Process msedge)
 - [Chrome 조작 금지](no-chrome-debug.md) — Claude in Chrome·앱 브라우저 창 쓰지 않음, 확인은 curl·headless Edge
+- [법적 점검은 최종 배포 전만](legal-check-final-only.md) — 평소 보고엔 안 붙임, 규칙 자체는 계속 지킴 (11-08)
