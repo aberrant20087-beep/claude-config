@@ -17,7 +17,14 @@
    git clone https://github.com/<계정>/claude-config.git %USERPROFILE%\claude-config
    robocopy %USERPROFILE%\claude-config %USERPROFILE%\.claude /E /XD .git
    ```
-3. SEOL 저장소를 받는다: `git clone https://github.com/<계정>/seol.git "<원하는 위치>\SEOL"`
+3. 볼트와 SEOL을 받는다. SEOL의 빌드 스크립트는 볼트가 SEOL 바로 옆 폴더에 있다고 보므로, 볼트 저장소 안에 SEOL을 받는다.
+   ```
+   git clone https://github.com/aberrant20087-beep/vaults.git C:\work\desk
+   git clone https://github.com/aberrant20087-beep/seol.git C:\work\desk\SEOL
+   ```
+   이 PC에서는 볼트 저장소의 작업 폴더가 `바탕 화면` 자체이고 git 폴더는 `C:\Users\newis\git\vaults.git`이다
+   (바탕 화면에 .git이 생기지 않게). 명령은 `git --git-dir=C:/Users/newis/git/vaults.git status`처럼 쓴다.
+   넣는 볼트 목록은 그 git 폴더의 `info/exclude`에 있다(허용 목록: 볼트 3개만).
 4. SEOL을 다른 경로에 두면 기억 폴더 이름이 달라진다. 경로의 `:` `\` 한글·공백을 `-`로 바꾼 이름으로
    `projects/C--Users-newis-OneDrive-------SEOL/memory`를 복사한다 (예: `C:\work\SEOL` → `projects/C--work-SEOL/memory`).
 5. 배포하려면 그 컴퓨터에서 `npx.cmd wrangler@3.114.17 login`으로 Cloudflare에 다시 로그인한다 (로그인 정보는 저장소에 없음).
