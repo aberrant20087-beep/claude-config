@@ -1,0 +1,15 @@
+- [PROJECT SEOL 워크스페이스](project-seol.md) — 바탕화면 개인 업무 허브, 드라이브 자료 + 홈페이지 + cowork 환경 + GMP 지식맵 볼트
+- [사용자: GMP 밸리데이션 엔지니어](user-gmp-validation-engineer.md) — 바이오써포트 소속, DQ/IQ/OQ/PQ 문서 업무
+- [한글 .ps1 은 UTF-8 BOM 필수](powershell-korean-bom.md) — 그리고 .bat 내용엔 한글 금지 (cmd가 줄 구조를 깨뜨림)
+- [PDF는 render.ps1로 변환해서 읽기](pdf-rendering-on-this-pc.md) — 이 PC엔 pdftoppm 없음, 캡처 요청 금지
+- [적격성평가 단계 번호 체계](validation-stage-numbering.md) — 실제 프로젝트는 06에 QP가 끼어 표준 패키지와 다름
+- [공유 드라이브는 읽기 전용](shared-drive-read-only.md) — 쓰기·통째복사 절대 금지, 결과물은 내 드라이브에만
+- [ONTOLOGY 101 인스타 채널](ontology-insta-channel.md) — 2026-10-21부터 영어판·한국어판 매일 둘 다 게시, 표지 영상은 직접 제작 선호. 게시는 크롬 웹
+- [항상 한국어로 답하기](respond-in-korean.md) — 진행 멘트 포함, 영어로 답했다가 두 번 지적받음
+- [클로드 스킬 자료 관리 폴더](claude-skills-lab.md) — 받은 스킬·MCP 판정 기록, 현재 설치 없음, 남은 링크 대기
+- [11월 초 인스타 직접 게시](insta-self-post-nov-2026.md) — 구독 만료로 11/1~5 운영자가 직접, DAY 38 게시 여부 미확인, 11/6 INSTAGRAM 세션 not found
+- [인스타 웹 게시 요령](insta-web-upload-crop.md) — 4:5 직접 선택, 캡션은 실제 입력+실제 클릭, 게시 후 og:description 확인. 크롬 확장이면 JPG 변환해 직접 업로드
+- [인스타 표지: 이슈 사진 우선, 없을 때만 직접 그리기](insta-cover-video-self-made.md) — 2026-10-26부터 자유 이용 사진(연방정부·Commons) 찾기, 스톡·통신사 금지
+- [인스타: 낯선 이름·고양이·오해유발 단어 금지](insta-no-abbreviations-no-cats.md) — CC·레인보우처럼 설명 없는 이름 금지, '젖' 같은 말도 금지, AI·DNA는 괜찮음
+- [인스타: 이슈의 실체를 정확히 짚기](insta-explain-the-actual-thing.md) — 안전·쉬움 핑계로 '무엇이 고장났나'를 흐리지 말 것 (DAY 28 지적)
+- [인스타는 INSTAGRAM 세션에서만](insta-session-instagram-only.md) — 2026-11-04부터 예약 작업은 SNS/INSTAGRAM 세션에 메시지만 넘김, 새 세션 쓰지 않기

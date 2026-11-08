@@ -1,0 +1,2 @@
+- [Reply in Korean](reply-in-korean.md) — 항상 한국어로 답하기, 영어로 바꾸지 않기
+- [Always deploy SEOL](seol-always-deploy.md) — 홈페이지 고치면 공개 주소까지 묻지 않고 배포

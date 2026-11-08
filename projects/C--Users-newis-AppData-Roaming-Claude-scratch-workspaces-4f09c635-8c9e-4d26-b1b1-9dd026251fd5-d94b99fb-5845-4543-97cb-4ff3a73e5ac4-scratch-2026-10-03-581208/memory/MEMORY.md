@@ -1,0 +1,2 @@
+- [Continue without asking](no-confirmation-continue.md) — run multi-step plans through; don't ask "진행할까요?" between steps
+- [Health biology vault](health-vault-project.md) — user's Obsidian body-management knowledge graph on Desktop; goal: solo healthcare designer

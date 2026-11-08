@@ -1,0 +1,27 @@
+# claude-config 비공개 저장소 (2026-11-08, GitHub 관리 세션)
+# 허용 목록 방식: 모두 빼고, 아래 '!' 줄만 넣는다.
+# 절대 넣지 않는 것: .credentials.json, .claude.json, 대화 기록(projects/*/*.jsonl), sessions, file-history,
+# backups, cache, telemetry, uploads, downloads, shell-snapshots, session-env, plugins, skills-backup-*.
+/*
+!/.gitignore
+!/README.md
+!/CLAUDE.md
+!/settings.json
+!/skills/
+!/scheduled-tasks/
+!/projects/
+/projects/*/*
+!/projects/*/memory/
+
+# 실명·회사 이메일이 든 기억 파일 (다른 세션 파일이라 고치지 않고 뺌)
+/projects/*/memory/user-gmp-validation-engineer.md
+/projects/*/memory/video-tool-gemini.md
+
+# 스킬 안의 설치물·비밀
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key

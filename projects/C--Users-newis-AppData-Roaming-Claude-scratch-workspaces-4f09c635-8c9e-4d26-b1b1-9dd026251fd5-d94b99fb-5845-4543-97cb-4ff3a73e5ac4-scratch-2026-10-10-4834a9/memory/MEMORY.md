@@ -1,0 +1,2 @@
+- [영상 생성은 Gemini로](video-tool-gemini.md) — Higgsfield 크레딧 소진, 더 이상 사용 안 함 (2026-10-17~)
+- [SEOL 4자매 캐릭터](seol-characters.md) — 설이/포이/조이/연이 테마색·소품·의상 확정, 3D는 원피스형

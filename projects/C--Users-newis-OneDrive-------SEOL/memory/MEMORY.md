@@ -1,0 +1,15 @@
+- [JOI 법·제도 볼트](joi-law-vault.md) — JOI 역할, 옵시디언 볼트 위치·규칙, 나중에 Link 페이지로 이전
+- [웹 스크롤 금지](no-scroll-web.md) — 웹 페이지는 스크롤 없이 한 화면, 필요하면 사용자가 요청
+- [한국어로만 쓰기](reply-in-korean.md) — 답변·진행 알림·요약 모두 한국어, 영어는 요청받은 단어·문장만
+- [배포는 전용 폴더에서](deploy-own-folder.md) — seol-deploy 동시 복사 충돌, POI TO YEONI는 seol-deploy-p2y 사용
+- [옛 빌드로 배포 금지](deploy-stale-build.md) — 일부만 올릴 땐 배포 직전 공개본과 비교해 자기 파일만 바꿈 (11-07 organize 되돌림 사고)
+- [계정 이전](account-migration.md) — 2026-11-01 백업 완료, 새 계정 첫 세션은 ACCOUNT_MIGRATION.md부터
+- [설이 최종 목표](seori-final-goals.md) — 2026-10-31 목표 4개, 항목별 페이지·과정 설명, 나머지 목표는 다음날 추가
+- [광고 영상은 무료로](ad-motion-2d-only.md) — 힉스필드 구독 그만, Remotion으로 기존 3D 캐릭터 그림을 움직임 (11-08), 2D 선화 판은 보관
+- [승인 없이 바로 고치기](fix-without-approval.md) — 점검 문제는 바로 고치고, 방법이 여럿일 때만 얼에게 묻기
+- [방별 목표](session-goals.md) — SESSION_GOALS.md, 포이 확정 기준으로 먼저, 나머지는 큰 문제만
+- [승인 전 홈 파일](pending-home-file.md) — 새 홈은 seol-home-house.html, seol-home.html은 승인된 판만 (11-07 공개 사고)
+- [캐릭터 외형 고정](character-design-fixed.md) — 움직일 때도 공식 외형 그대로, 뒷모습은 walk-*.webp 기준, 포이 0.77
+- [방으로 가는 영상](room-path-video.md) — 자매 클릭 영상은 벤치→집→자기 방, 방이 바로 나오면 안 됨
+- [로컬은 Edge로](open-in-edge.md) — 얼에게 로컬을 열어 줄 때는 Chrome 말고 Edge(Start-Process msedge)
+- [Chrome 조작 금지](no-chrome-debug.md) — Claude in Chrome·앱 브라우저 창 쓰지 않음, 확인은 curl·headless Edge

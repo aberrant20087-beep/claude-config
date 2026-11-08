@@ -1,0 +1,1 @@
+- [Avoid Firecrawl search](avoid-firecrawl-search.md) — use WebSearch/WebFetch or built-in browser instead

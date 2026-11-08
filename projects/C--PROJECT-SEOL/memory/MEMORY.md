@@ -1,0 +1,7 @@
+- [PROJECT SEOL 워크스페이스](project-seol.md) — 바탕화면 개인 업무 허브, 드라이브 자료 + 홈페이지 + cowork 환경 + GMP 지식맵 볼트
+- [사용자: GMP 밸리데이션 엔지니어](user-gmp-validation-engineer.md) — 바이오써포트 소속, DQ/IQ/OQ/PQ 문서 업무
+- [한글 .ps1 은 UTF-8 BOM 필수](powershell-korean-bom.md) — 그리고 .bat 내용엔 한글 금지 (cmd가 줄 구조를 깨뜨림)
+- [PDF는 render.ps1로 변환해서 읽기](pdf-rendering-on-this-pc.md) — 이 PC엔 pdftoppm 없음, 캡처 요청 금지
+- [적격성평가 단계 번호 체계](validation-stage-numbering.md) — 실제 프로젝트는 06에 QP가 끼어 표준 패키지와 다름
+- [공유 드라이브는 읽기 전용](shared-drive-read-only.md) — 쓰기·통째복사 절대 금지, 결과물은 내 드라이브에만
+- [답변은 한국어로](reply-in-korean.md) — 영어로 답했다가 "한글로 말해" 지적받음
