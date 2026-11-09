@@ -14,3 +14,6 @@
 - [로컬은 Edge로](open-in-edge.md) — 얼에게 로컬을 열어 줄 때는 Chrome 말고 Edge(Start-Process msedge)
 - [Chrome 조작 금지](no-chrome-debug.md) — Claude in Chrome·앱 브라우저 창 쓰지 않음, 확인은 curl·headless Edge
 - [법적 점검은 최종 배포 전만](legal-check-final-only.md) — 평소 보고엔 안 붙임, 규칙 자체는 계속 지킴 (11-08)
+- [로컬은 영상 홈으로](local-preview-house.md) — 로컬 열 땐 seol-home-house.html, 고친 건 로컬 즉시 반영, 배포만 승인 (11-08)
+- [확인은 얼의 브라우저 기준](verify-in-eol-browser.md) — 보고에 브라우저·주소 적기, 로컬 Edge 127.0.0.1:8766에서도 확인 (IndexedDB는 브라우저마다 따로)
+- [패널 모드 실행 오류](mod-jsx-h-shadow.md) — seol-eng 모드 JSX는 h(), 변수 h 금지·Button 3속성·10초 제한, 오류 로그 위치
